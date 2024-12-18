@@ -1,0 +1,34 @@
+body { 
+  font-family: Arges, sans-serif;
+  } 
+  #home { 
+    background-color: #efefef; 
+    color: #343a40; 
+  } 
+  #portfolio { 
+    color: #192928;
+    background-color: #efefef !important; 
+  
+  } 
+  #contact { 
+    background-color: #efefef !important; 
+  } 
+  .card img { 
+    height: 200px; 
+    object-fit: cover; 
+  } 
+  hr { 
+    margin: 0rem 0; opacity: 9;
+  }
+.picton {
+color: #004040;
+
+}
+.card {
+background-color: white;
+
+}
+.nav-link {
+color: white;
+
+}
